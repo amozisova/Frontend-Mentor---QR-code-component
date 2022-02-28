@@ -3,18 +3,24 @@ body {
     font-family: 'Outfit', sans-serif;
     font-size: 0.95rem;
     text-align: center;
-    margin: 0; /* resets browser default margin settings*/
-    min-height: 100vh;
-    display: grid;
-    place-items: center;
+    margin: 0;
+    /* resets browser default margin settings*/
 }
 
 h1 {
     color: #1f3251;
     font-size: 1.4rem;
 }
-/* main container - holds img and card text*/
+
+/* main container - holds card div*/
 .container {
+    display: grid;
+    place-items: center;
+    height: 100vh;
+}
+
+/* container - holds img and card text*/
+.card {
     background-color: #fff;
     border-radius: 1rem;
     color: #7b879d;
@@ -22,7 +28,7 @@ h1 {
 }
 
 .QR {
-    margin: 1rem 0 0; 
+    margin: 1rem 0 0;
 }
 
 .QR img {
