@@ -12,9 +12,7 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 
 
 ### Screenshot
-
-
-![](/MY SOLUTION/screenshot.jpg)
+/MY SOLUTION/screenshot.jpg
 
 ### Links
 
