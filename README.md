@@ -19,8 +19,6 @@ https://github.com/amozisova/Frontend-Mentor---QR-code-component/blob/main/scree
 - Solution URL: (https://github.com/amozisova/Frontend-Mentor---QR-code-component)
 - Live Site URL: (https://amozisova.github.io/Frontend-Mentor---QR-code-component)
 
-## My process
-
 ### Built with
 - Semantic HTML5 markup
 - CSS custom properties
